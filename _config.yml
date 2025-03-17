@@ -26,7 +26,7 @@ url                      : "https://aya-souki.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Aya-souki/Aya-souki.github.io.git"
 teaser                   : "assets/images/bio-photo/background.jpg"
-logo                     : #logo
+logo                     : #logo, to be found
 masthead_title           : ""
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
